@@ -194,6 +194,5 @@ Same as the upstream fork — see `LICENSE.md`.
 
 ## Thanks
 
-- @swgee for the original
 - PortSwigger for the Montoya API + the official MCP extension I cribbed the editor-focus trick from
 - everyone using this in earnest who's filed an issue
